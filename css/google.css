@@ -1,0 +1,96 @@
+.container{ 
+    width: 1710px;
+    height: 275px;
+    padding: 0px 103px 0px 103px;
+    text-align: center;
+}
+
+/* .button{
+    font-size: 50px;
+    padding: 15px 20px;
+} */
+
+/************ search  ************/
+.search{
+    width: 1710px;
+    height: 60px;
+    background-color: #EEEEEE;
+    margin-bottom: 3px;
+    
+}
+
+#search-bar{
+        width: 19%;
+        box-sizing: border-box;
+}
+
+/************ card1  ************/
+.card1{
+    width: 632px;
+    height: 75px;
+    float: left;
+    background-color: #7EE5DA;
+    overflow: hidden; 
+    text-align: center;
+        
+}
+.card1text1{
+    color: black;
+    font-size: 16px;
+    
+}
+.card1text2{
+    color: blue;
+    font-size: 16px;
+    text-decoration: underline;
+
+}
+/************ card2  ************/
+.card2{
+    width: 335px;
+    height: 75px;
+    float: left;
+    background-color: #70CCC2;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+.card2text1{
+    color: blue;
+    text-decoration: underline;
+    font-size: 13px;
+}
+.card2text2{
+    color: #551A8B;
+    text-decoration: underline;
+    font-size: 13px;
+}
+
+/************ card3  ************/
+.card3{
+    width: 738px;
+    height: 75px;
+    float: left;
+    background-color: #62B3AA;
+}
+
+.card3text1{
+    color: blue;
+    text-decoration: underline;
+}
+
+/************ p  ************/
+p{
+    font-size: 13px;
+    margin: 0px;
+    
+}
+/************ display: inline-block = her nesneyi block olarak gösteriyor  ************/
+#p1{
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+
+#p2{
+    display: inline-block;
+    margin: 5px 10px 10px 10px;
+}
